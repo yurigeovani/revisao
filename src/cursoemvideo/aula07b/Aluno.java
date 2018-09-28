@@ -1,4 +1,4 @@
-package cursojava.basico.aula40;
+package cursoemvideo.aula07b;
 
 public class Aluno {
 

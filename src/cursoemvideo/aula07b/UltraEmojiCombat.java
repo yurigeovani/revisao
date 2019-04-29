@@ -1,4 +1,4 @@
-package cursojava.basico.aula36.cursoemvideo;
+package cursoemvideo.aula07b;
 
 public class UltraEmojiCombat {
 
